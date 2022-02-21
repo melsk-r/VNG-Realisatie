@@ -13,6 +13,8 @@ nav:
         path: /
   - title: VNG Realisatie specifieke documentatie
     subnav:
+      - title: Inleiding
+        path: /index
       - title: Installatie
         path: /installatie
       - title: Begrippen
