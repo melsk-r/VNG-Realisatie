@@ -35,8 +35,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
   
-# remote_theme: melsk-r/Imvertor-jekyll-theme
-remote_theme: https://github.com/VNG-Realisatie/jekyll-theme-haal-centraal
+remote_theme: melsk-r/Imvertor-jekyll-theme
+# remote_theme: https://github.com/VNG-Realisatie/jekyll-theme-haal-centraal
 
 github: melsk-r/VNG-Realisatie
 
